@@ -3,3 +3,6 @@ print("Esto generara conflictos (local)")
 print("Esto puede causar un conflicto (remoto)")
 print('Subimos un nuevo cambio')
 print('Subir cambio de forma visual')
+
+def fibonacci():
+    pass
